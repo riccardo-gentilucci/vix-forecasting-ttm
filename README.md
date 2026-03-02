@@ -1,4 +1,4 @@
-# VIX Forecasting using IBM Granite TTM (SOTA Foundation Model)
+# VIX Forecasting using IBM Granite TTM
 
 This project evaluates the performance of **Tiny Time Mixers (TTM)**, a SOTA Foundation Model from IBM Research, for predicting the Cboe Volatility Index (VIX).
 
